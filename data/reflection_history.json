@@ -1,0 +1,58 @@
+{
+  "decision_history": [
+    {
+      "timestamp": "2026-04-09T21:16:03.385998",
+      "detection": "ANOMALY",
+      "risk": "MEDIUM",
+      "user_feedback": "correct",
+      "row_data": {
+        "row_id": 9,
+        "detection": "ANOMALY",
+        "risk": "MEDIUM",
+        "type": "realtime",
+        "timestamp": "2026-04-09T21:15:45.189883"
+      }
+    },
+    {
+      "timestamp": "2026-04-09T21:16:08.646757",
+      "detection": "NORMAL",
+      "risk": "LOW",
+      "user_feedback": "correct",
+      "row_data": {
+        "row_id": 2,
+        "detection": "NORMAL",
+        "risk": "LOW",
+        "type": "realtime",
+        "timestamp": "2026-04-09T21:15:45.189028"
+      }
+    },
+    {
+      "timestamp": "2026-04-09T21:16:10.089008",
+      "detection": "NORMAL",
+      "risk": "LOW",
+      "user_feedback": "false_positive",
+      "row_data": {
+        "row_id": 3,
+        "detection": "NORMAL",
+        "risk": "LOW",
+        "type": "realtime",
+        "timestamp": "2026-04-09T21:15:45.189343"
+      }
+    },
+    {
+      "timestamp": "2026-04-09T21:16:11.405569",
+      "detection": "NORMAL",
+      "risk": "LOW",
+      "user_feedback": "correct",
+      "row_data": {
+        "row_id": 4,
+        "detection": "NORMAL",
+        "risk": "LOW",
+        "type": "realtime",
+        "timestamp": "2026-04-09T21:15:45.189343"
+      }
+    }
+  ],
+  "improvements": [],
+  "last_updated": "2026-04-09T21:16:11.405569"
+}
